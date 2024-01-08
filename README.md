@@ -2,8 +2,6 @@
 
 - Class Date: [1;2C[1;May 4 – 7, 2021)
 - Facilitator: @Kan Chen
-- Today is cloudy
-- Today is Sunny
 
 ## Class Resources
 
