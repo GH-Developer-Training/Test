@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: [1;2C[1;May 4 – 7, 2021)
-- Facilitator: @Chen Kan
+- Facilitator: @Kan Chen
 
 ## Class Resources
 
